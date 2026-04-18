@@ -1,0 +1,10 @@
+# Secret Keys
+*.json
+serviceAccountKey.json
+.dart_tool/
+build/
+.env
+node_modules/
+.DS_Store
+.idea/
+.vscode/
