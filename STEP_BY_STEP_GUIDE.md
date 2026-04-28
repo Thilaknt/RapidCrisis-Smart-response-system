@@ -18,12 +18,7 @@ TWILIO_PHONE_NUMBER="YOUR_ACTUAL_TWILIO_PHONE_NUMBER_HERE"
 
 ### **What It Should Look Like AFTER (Example):**
 ```env
-PORT=3000
-GEMINI_API_KEY="AIzaSyC_L-Zl9dH4p9fK2mQ8rT1wX3yN4vB5cD6"
-TWILIO_ACCOUNT_SID="ACa1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p"
-TWILIO_AUTH_TOKEN="your_twilio_auth_token_here_65_chars"
-TWILIO_PHONE_NUMBER="+14155552671"
-```
+
 
 ---
 
@@ -72,7 +67,7 @@ TWILIO_PHONE_NUMBER="+14155552671"
 4. Copy the phone number (format: +14155552671)
 5. Paste into `.env` replacing:
    ```
-   TWILIO_PHONE_NUMBER="+14155552671"
+   
    ```
 
 ---
