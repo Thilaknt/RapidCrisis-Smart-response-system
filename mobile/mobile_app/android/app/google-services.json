@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769859517248",
+    "project_id": "rapid-response-system-df221",
+    "storage_bucket": "rapid-response-system-df221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769859517248:android:e0af0870c16a036e0598a5",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjayKGRwTGa3NK3QLfPOSfXfpvod2eK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
